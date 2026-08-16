@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-I'm a **Computer Engineering student** passionate about turning ideas into real-world technology.
+I'm a **AI&DS student** passionate about turning ideas into real-world technology.
 
 I enjoy working across **AI, cybersecurity, web applications, and game development**, combining creativity with engineering to build projects that are actually useful.
 
