@@ -2,11 +2,11 @@
 
 # ⚡ Hi, I'm Preet Rathi 👋
 
-### 💻 Computer Engineering Student | AI • Cybersecurity • Game Development
+### 💻 AI & DS Student | AI • Cybersecurity • Game Development
 
-<img src="https://komarev.com/ghpvc/?username=preet43p-png&label=PROFILE%20VIEWS&color=9b59ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=PreetRathi07&label=PROFILE%20VIEWS&color=9b59ff&style=for-the-badge" alt="Profile Views"/>
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=9B59FF&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;AI+%7C+Cybersecurity+%7C+Web+Development;Game+Development+%7C+Innovation;Always+Learning.+Always+Building." alt="Typing SVG"/>
 
@@ -16,9 +16,9 @@
 
 ## 🧠 About Me
 
-I'm a **AI&DS student** passionate about turning ideas into real-world technology.
+I'm an **AI & DS student** passionate about turning ideas into real-world technology.
 
-I enjoy working across **AI, cybersecurity, web applications, and game development**, combining creativity with engineering to build projects that are actually useful.
+I enjoy working across **Artificial Intelligence, Cybersecurity, Web Applications, and Game Development**, combining creativity with engineering to build projects that are useful, innovative, and meaningful.
 
 > ⚡ **Think → Build → Break → Improve → Repeat**
 
@@ -120,7 +120,7 @@ I'm constantly experimenting with new technologies, participating in hackathons,
 
 ### 🎮 PARANOIA
 
-> A psychological horror game focused on exploration, puzzles, atmosphere and unpredictable entities.
+> A psychological horror game focused on exploration, puzzles, atmosphere, survival, and unpredictable entities.
 
 **Tech:** TypeScript • Vite • Three.js • Electron
 
@@ -146,9 +146,9 @@ I'm constantly experimenting with new technologies, participating in hackathons,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=preet43p-png&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B59FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PreetRathi07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B59FF&icon_color=00D9FF&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preet43p-png&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B59FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreetRathi07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B59FF&text_color=FFFFFF"/>
 
 </div>
 
@@ -158,7 +158,7 @@ I'm constantly experimenting with new technologies, participating in hackathons,
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=preet43p-png&bg_color=0D1117&color=9B59FF&line=9B59FF&point=00D9FF&area_color=9B59FF&area=true&hide_border=true" alt="Preet's GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PreetRathi07&bg_color=0D1117&color=9B59FF&line=9B59FF&point=00D9FF&area_color=9B59FF&area=true&hide_border=true" alt="Preet's GitHub Activity Graph"/>
 
 </div>
 
@@ -168,7 +168,7 @@ I'm constantly experimenting with new technologies, participating in hackathons,
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=preet43p-png&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=PreetRathi07&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 </div>
 
@@ -178,7 +178,7 @@ I'm constantly experimenting with new technologies, participating in hackathons,
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=preet43p-png&theme=tokyonight&hide_border=true&background=0D1117&ring=9B59FF&fire=00D9FF&currStreakLabel=9B59FF"/>
+<img src="https://streak-stats.demolab.com?user=PreetRathi07&theme=tokyonight&hide_border=true&background=0D1117&ring=9B59FF&fire=00D9FF&currStreakLabel=9B59FF"/>
 
 </div>
 
